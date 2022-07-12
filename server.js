@@ -375,7 +375,7 @@ const staticData = [
     "date": "21/March/2015"
   },
   {
-    "id": "49000000000000000000000000000000",
+    "id": "49",
     "name": "Ms. Bert Borer",
     "type": "C++",
     "date": "12/May/1996"
